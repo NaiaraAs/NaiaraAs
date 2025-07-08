@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙆‍♀️ Currently in my third year of high school. <br><br>👩‍🎓  I'm studying Systems Development Technician . <br><br>😍 I like working with the JAVA programming language.<br><br>👀 In the learning phase in the field of Dev.<br><br>✨ Planning to develop an app with a team.
+🙆‍♀️ Currently in my third year of high school. <br><br>👩‍🎓  I am studying Technical Systems Development in a technical course . <br><br>😍 I like working with the JAVA programming language.<br><br>👀 In the learning phase in the field of Dev.<br><br>✨ Planning to develop an app with a team.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
