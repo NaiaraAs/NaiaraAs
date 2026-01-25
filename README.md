@@ -1,12 +1,38 @@
-# 💫 About Me:
-🙆‍♀️ Currently in my third year of high school. <br><br> 👩‍🎓 I am studying Systems Development in a technical course. <br><br>😍 I like working with the JAVA programming language.<br><br>👀 In the learning phase in the field of Dev.<br><br>✨ Planning to develop an app with a team.
+# Naiara Alves.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**NaiaraAs/NaiaraAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Técnico em Análise e Desenvolvimento de Sistemas (ADS)
+**Foco em Back-End e Desenvolvimento Mobile**
 
-Here are some ideas to get you started:
+Desenvolvedora com formação em ensino técnico. Especializada na criação de soluções utilizando linguagens e ferramentas como PHP com Laravel, Android com Java e React.js. Possuo sólida base em lógica de programação, adquirida através do desenvolvimento de softwares e integração com hardware (Arduino).
 
-- 🔭 I am currently working on an Integrative Project
-- 🌱 I am pursuing a Technical Course in ADS.
--->
+---
+
+### 🛠️ Hard Skills
+
+- **Back-End:** PHP (Laravel), Java.
+- **Mobile:** Desenvolvimento de aplicações para dispositivos móveis.
+- **Front-End:** HTML, CSS, React.
+- **Bancos de Dados:** MySQL (Relacional) e MongoDB (NoSQL).
+- **Outras Tecnologias:** Swift, Arduino etc.
+
+---
+
+### 🚀 Projetos e Experiência
+
+- **Desenvolvimento Web:** Aplicações robustas focadas em regras de negócio e performance.
+- **Mobile First:** Criação de interfaces responsivas e aplicações nativas/híbridas.
+- **Sistemas Embarcados:** Experiência técnica com automação e prototipagem via Arduino.
+
+---
+
+### 📊 GitHub Stats
+
+![Estatísticas do GitHub](https://NaiaraAs-readme-stats.vercel.app)
+![Linguagens mais usadas](https://NaiaraAs-readme-stats.vercel.app)
+
+---
+
+### 📞 Contato e Redes
+
+- **LinkedIn:** Acessar meu perfil profissional(https://www.linkedin.com/in/naiara-alves-dev)
+- **E-mail:** alvesnaiara502@gmail.com
