@@ -27,8 +27,10 @@ Desenvolvedora com formação em ensino técnico. Especializada na criação de 
 
 ### 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://NaiaraAs-readme-stats.vercel.app)
-![Linguagens mais usadas](https://NaiaraAs-readme-stats.vercel.app)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NaiaraAs&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NaiaraAs&layout=compact)
+
 
 ---
 
